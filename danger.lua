@@ -1,4 +1,3 @@
-wait("0.2")
   getgenv().Danger = {
     ["Options"] = {
         ["Version"] = "3.1.4-Electron", -- // Dont touch this is to make sure your using the correct table
